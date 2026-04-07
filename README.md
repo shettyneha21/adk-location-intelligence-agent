@@ -71,7 +71,7 @@ gcloud auth application-default login
 
 Follow the prompts to complete the authentication process.
 
-⚠️ Note: ADK does not automatically refresh your OAuth 2.0 token. If your chat session lasts more than 60 minutes, you may need to re-authenticate using the command above.
+Note: ADK does not automatically refresh your OAuth 2.0 token. If your chat session lasts more than 60 minutes, you may need to re-authenticate using the command above.
 
 ### 3. Configure Environment
 
